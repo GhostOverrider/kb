@@ -1,3 +1,13 @@
+/*
+==========================================
+Title:  Arduino coding best practices 
+author: GhostOverrider
+Date:   23 Feb 2021
+
+Note:   The below trashy code has not been updated 
+        as yet.
+==========================================
+*/
 #include <LiquidCrystal.h>
 
 // initialize the library with the numbers of the interface pins
